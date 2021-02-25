@@ -3,7 +3,7 @@
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 
-public class min_heap {
+public class min_heap{
 
 	public static class minHeap{
 		
