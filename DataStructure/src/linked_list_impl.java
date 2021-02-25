@@ -1,6 +1,6 @@
 
 
-public class linked_list_impl {
+public class linked_list_impl{
 
 	private Node head;
 	private Node tail;
