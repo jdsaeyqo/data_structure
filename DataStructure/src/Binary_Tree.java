@@ -1,6 +1,6 @@
 
 
-class Node{ 
+class Node{
 	
 	private int data;
 	private Node Left;
