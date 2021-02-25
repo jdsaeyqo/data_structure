@@ -2,6 +2,7 @@
 
 class Node_{
 	
+	
 	public Node_ root;
 	
 	private int data;
